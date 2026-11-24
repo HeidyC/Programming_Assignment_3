@@ -7,7 +7,6 @@ import county_demographics
 
 Then just place the files you downloaded alongside it.
 '''
-
 import os as _os
 import pickle as _pickle
 
